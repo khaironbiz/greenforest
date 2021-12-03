@@ -1,0 +1,71 @@
+CRITICAL - 2021-12-03 04:40:13 --> Invalid file: event/test.php
+#0 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('event/test.php')
+#1 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Common.php(1097): CodeIgniter\View\View->render('event/test', Array, true)
+#2 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\app\Controllers\Home.php(21): view('event/test', Array)
+#3 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(824): App\Controllers\Home->template()
+#4 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\khair\\...')
+#8 {main}
+CRITICAL - 2021-12-03 04:41:12 --> Invalid file: event/test.php
+#0 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('event/test.php')
+#1 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Common.php(1097): CodeIgniter\View\View->render('event/test', Array, true)
+#2 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\app\Controllers\Home.php(21): view('event/test', Array)
+#3 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(824): App\Controllers\Home->template()
+#4 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\khair\\...')
+#8 {main}
+CRITICAL - 2021-12-03 04:42:12 --> Invalid file: event/test.php
+#0 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('event/test.php')
+#1 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Common.php(1097): CodeIgniter\View\View->render('event/test', Array, true)
+#2 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\app\Controllers\Home.php(21): view('event/test', Array)
+#3 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(824): App\Controllers\Home->template()
+#4 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\khair\\...')
+#8 {main}
+CRITICAL - 2021-12-03 04:42:13 --> Invalid file: event/test.php
+#0 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('event/test.php')
+#1 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Common.php(1097): CodeIgniter\View\View->render('event/test', Array, true)
+#2 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\app\Controllers\Home.php(21): view('event/test', Array)
+#3 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(824): App\Controllers\Home->template()
+#4 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\khair\\...')
+#8 {main}
+CRITICAL - 2021-12-03 04:42:14 --> Invalid file: event/test.php
+#0 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('event/test.php')
+#1 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Common.php(1097): CodeIgniter\View\View->render('event/test', Array, true)
+#2 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\app\Controllers\Home.php(21): view('event/test', Array)
+#3 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(824): App\Controllers\Home->template()
+#4 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\khair\\...')
+#8 {main}
+CRITICAL - 2021-12-03 04:47:23 --> Invalid file: event/test.php
+#0 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('event/test.php')
+#1 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Common.php(1097): CodeIgniter\View\View->render('event/test', Array, true)
+#2 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\app\Controllers\Home.php(21): view('event/test', Array)
+#3 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(824): App\Controllers\Home->template()
+#4 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\khair\\...')
+#8 {main}
+CRITICAL - 2021-12-03 04:53:56 --> Invalid file: layout/template.php
+#0 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template...')
+#1 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#2 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Common.php(1097): CodeIgniter\View\View->render('landing/event/t...', Array, true)
+#3 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\app\Controllers\Home.php(21): view('landing/event/t...', Array)
+#4 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(824): App\Controllers\Home->template()
+#5 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\khair\Downloads\codeigniter4-CodeIgniter4-v4.1.5-0-g8c7f701\greenforest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\khair\\...')
+#9 {main}
